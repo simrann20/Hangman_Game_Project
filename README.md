@@ -1,11 +1,9 @@
-## The Hangman Game Project
+## Trexquant Interview Project (The Hangman Game)
 
-#### Trexquant Interview Project (The Hangman Game)
 
-Copyright Trexquant Investment LP. All Rights Reserved.
+Copyright Trexquant Investment LP. All Rights Reserved.<br>
 Redistribution of this question without written consent from Trexquant is prohibited
 
----
 #### Instruction:
 For this coding test, your mission is to write an algorithm that plays the game of Hangman through our API server.
 
