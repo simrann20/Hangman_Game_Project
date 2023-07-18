@@ -317,7 +317,7 @@ class HangmanAPIError(Exception):
 5. Note: You have a rate limit of 20 new games per minute. DO NOT start more than 20 new games within one minute.
 """
 
-api = HangmanAPI(access_token="80d66eeed132341ff28ea2af32f1ab", timeout=2000)
+api = HangmanAPI(access_token="******************", timeout=2000)
 
 """## Playing practice games:
 You can use the command below to play up to 100,000 practice games.
